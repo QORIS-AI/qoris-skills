@@ -45,3 +45,4 @@ Skills that teach Claude how to use the Qoris MCP (Model Context Protocol) serve
 - URL: `https://mcp.qoris.ai/mcp`
 - Auth: API key (query param or header) or OAuth 2.0
 - Docs: https://docs.qoris.ai/getting-started/authentication
+- Qoris: https://qoris.ai
